@@ -8,4 +8,6 @@
     <string name="start">Start</string>
     <string name="welcome_to_dice_roll">Welcome to Dice Roll</string>
     <string name="welcome1">Welcome to Dice Roll :)</string>
+    <string name="click_the_button_to_roll_the_dice_good_luck">Click the button to roll the dice: good luck!</string>
+    <string name="roll_dice">Roll Dice!</string>
 </resources>
